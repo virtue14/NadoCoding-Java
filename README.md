@@ -21,4 +21,8 @@ NadoCoding-Java
          │  └─ _Quiz_02.java
          └─ chap_03
             └─ _01_String1.java
+            └─ _02_String2.java
+            └─ _03_String3.java
+            └─ _04_String4.java
+            └─ _Quiz_03.java
 ```
