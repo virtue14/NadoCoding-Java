@@ -1,5 +1,5 @@
 ```
-NadoCoding-Java
+NadoCoding-Java(진행중)
 └─ src
    └─ main
       └─ java
@@ -30,4 +30,10 @@ NadoCoding-Java
             └─ _02_Else.java
             └─ _03_ElseIf.java
             └─ _04_SwitchCase.java
+            └─ _05_for
+            └─ _06_While
+            └─ _07_DoWhile
+            └─ _08_NestedLoop
+            └─ _09_MultipleTable
+            └─ _10_Break.java
 ```
