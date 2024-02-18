@@ -1,7 +1,5 @@
 package chap_07;
 
-import java.sql.SQLOutput;
-
 public class BlackBox {
 
     String modelName;
@@ -46,6 +44,7 @@ public class BlackBox {
         System.out.println("영상은" + min + "분 단위로 기록됩니다.");
 
     }
+
     void recode() {
         record(true, true, 5);
     }
@@ -57,5 +56,7 @@ public class BlackBox {
     }
 
 
-
+    void appendModelName(String modelName) {
+        this.modelName += modelName;
+    }
 }
